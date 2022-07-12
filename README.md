@@ -1,3 +1,9 @@
+<div align="left">
+  <img height="200" src="https://avatars.githubusercontent.com/u/88965473?v=4"  />
+</div>
+
+###
+
 <h4 align="left">Hi, I am Mohamed Omar, Bachelor's degree in agriculture.<br><br>Currently, Frontend developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies, and programming languages.<br><br>Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Frontend developer.</h4>
 
 ###
@@ -47,8 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="./snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/mohamed-omar-mubark/mohamed-omar-mubark/blob/output/snake.svg" alt="Snake animation" />
 
 ###
