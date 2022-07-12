@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/mohamed-omar-mubark/mohamed-omar-mubark/blob/output/snake.svg" alt="Snake animation" />
+<img href="./snake.svg" alt="Snake animation" />
 
 ###
