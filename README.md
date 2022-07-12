@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img href="https://github.com/mohamed-omar-mubark/mohamed-omar-mubark/blob/main/.github/workflow/snake.yml" alt="Snake animation" />
-
-###
