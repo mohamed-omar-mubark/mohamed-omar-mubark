@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I am Mohamed Omar, Bachelor's degree in agriculture.<br><br>Currently, Frontend developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies, and programming languages.<br><br>Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Frontend developer.</h4>
+<h4 align="left">Hi, I am Mohamed Omar, Bachelor's degree in agriculture.<br><br>Currently, Frontend developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies, and programming languages.<br><br>Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a frontend developer.</h4>
 
 ###
 
