@@ -18,7 +18,7 @@ Hi, I am Mohamed Omar, Bachelor's degree in agricultural engineering. <br /> <br
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="vuejs logo" title="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="pinia logo" title="Pinia" />
+  <img src="https://pinia.vuejs.org/logo.svg" height="48" width="48" alt="pinia logo" title="Pinia" />
   <img src="https://vue-i18n.intlify.dev/vue-i18n-logo.svg" height="48" width="48" alt="i18n logo" title="I18n" />
   <img src="https://nuxt.com/icon.png" height="48" width="48" alt="nuxt logo" title="Nuxt" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
