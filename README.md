@@ -19,7 +19,7 @@ Hi, I am Mohamed Omar, Bachelor's degree in agricultural engineering. <br /> <br
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="50" alt="sass logo" title="Sass" />
   <img src="https://primevue.org/favicon.ico" height="48" width="48" alt="sass logo" title="PrimeVue" />
   <img src="https://next.vuetifyjs.com/favicon.ico" height="48" width="48" alt="sass logo" title="Vuetify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" width="50" alt="bootstrap logo" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="50" alt="vuejs logo" title="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" width="50" alt="jquery logo" title="jquery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="50" alt="git logo" title="Git" />
