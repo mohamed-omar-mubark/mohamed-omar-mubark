@@ -28,7 +28,7 @@ Hi, I am Mohamed Omar, Bachelor's degree in agricultural engineering. <br /> <br
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
   <img src="https://tailwindui.com/favicon.ico" height="48" width="48" alt="tailwind logo" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="github logo" title="Github" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48" width="48" alt="github logo" title="Github" />
   <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png" height="48" width="48" alt="gitlab logo" title="Gitlab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" width="48" alt="npm logo" title="Npm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" width="48" alt="yarn logo" title="Yarn" />
