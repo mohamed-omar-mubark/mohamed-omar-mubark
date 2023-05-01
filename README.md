@@ -14,9 +14,11 @@ Hi, I am Mohamed Omar, Bachelor's degree in agricultural engineering. <br /> <br
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo" title="Html" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo" title="Css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo" title="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" width="48" alt="vuejs logo" title="Vue.js" />
+  <img src="https://pinia.vuejs.org/logo.svg" height="48" width="48" alt="pinia logo" title="Pinia" />
   <img src="https://primevue.org/favicon.ico" height="48" width="48" alt="sass logo" title="PrimeVue" />
   <img src="https://next.vuetifyjs.com/favicon.ico" height="48" width="48" alt="sass logo" title="Vuetify" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
