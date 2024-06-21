@@ -1,7 +1,7 @@
 <h4 align="left">
 Hi, I am Mohamed Omar 
 <br /> <br />
-Currently, front-end developer with 4+ years of hands-on experience developing and
+Currently, Front-End Engineer with +5 years of hands-on experience developing and
 implementing applications and solutions using a range of technologies, and programming
 languages.
 <br /> <br />
@@ -9,7 +9,7 @@ I worked on many types of projects such as ERP, CRM, CMS, multi tenancy and vend
 medical and commercial management systems, etc.
 <br /> <br />
 Seeking to leverage broad development experience and technical expertise in a challenging
-role as a front-end developer.
+role as a Front-End Engineer
 
 </h4>
 
