@@ -9,7 +9,7 @@ I worked on many types of projects such as ERP, CRM, CMS, multi tenancy and vend
 medical and commercial management systems, etc.
 <br /> <br />
 Seeking to leverage broad development experience and technical expertise in a challenging
-role as a Front-End Engineer
+role as a Front-End Engineer.
 
 </h4>
 
