@@ -32,6 +32,7 @@ role as a Front-End Engineer.
   <img src="https://pinia.vuejs.org/logo.svg" height="48" width="48" alt="pinia logo" title="Pinia" />
   <img src="https://vue-i18n.intlify.dev/vue-i18n-logo.svg" height="48" width="48" alt="i18n logo" title="I18n" />
   <img src="https://nuxt.com/icon.png" height="48" width="48" alt="nuxt logo" title="Nuxt" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg](https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png)" height="48" width="48" alt="reactjs logo" title="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
   <img src="https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png" height="48" width="48" alt="quasar logo" title="Quasar" />
   <img src="https://primevue.org/favicon.ico" height="48" width="48" alt="sass logo" title="PrimeVue" />
