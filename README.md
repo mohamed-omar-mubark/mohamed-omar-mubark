@@ -32,12 +32,13 @@ role as a Front-End Engineer.
   <img src="https://pinia.vuejs.org/logo.svg" height="48" width="48" alt="pinia logo" title="Pinia" />
   <img src="https://vue-i18n.intlify.dev/vue-i18n-logo.svg" height="48" width="48" alt="i18n logo" title="I18n" />
   <img src="https://nuxt.com/icon.png" height="48" width="48" alt="nuxt logo" title="Nuxt" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" height="48" width="48" alt="reactjs logo" title="React.js" />
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="48" width="48" alt="redux logo" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
-  <img src="https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png" height="48" width="48" alt="quasar logo" title="Quasar" />
   <img src="https://primevue.org/favicon.ico" height="48" width="48" alt="sass logo" title="PrimeVue" />
   <img src="https://next.vuetifyjs.com/favicon.ico" height="48" width="48" alt="sass logo" title="Vuetify" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" height="48" width="48" alt="reactjs logo" title="React.js" />
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="48" width="48" alt="redux logo" title="Redux" />
+  <img src="https://img.stackshare.io/service/8766/8KpRJctC_400x400.jpg" height="48" width="48" alt="prime react logo" title="PrimeRact" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
+  <img src="https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png" height="48" width="48" alt="quasar logo" title="Quasar" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
   <img src="https://tailwindui.com/favicon.ico" height="48" width="48" alt="tailwind logo" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo" title="Git" />
