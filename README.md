@@ -34,7 +34,7 @@ development experience and technical expertise in a challenging role as a front-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
   <img src="https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png" height="48" width="48" alt="quasar logo" title="Quasar" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
-  <img src="[https://tailwindui.com/favicon.ico](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt4hnL51yx5beKfpZw3RMC75jd_nOYhWc0C6MRwgizKFHO4GwS6z6QYSRPHck-ITO3Nvsw9V2xj4ND68yq1dvF0X-RSTtKotCIzTRWwg)" height="48" width="48" alt="tailwind logo" title="Tailwind" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" height="48" width="48" alt="tailwind logo" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo" title="Git" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48" width="48" alt="github logo" title="Github" />
   <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png" height="48" width="48" alt="gitlab logo" title="Gitlab" />
