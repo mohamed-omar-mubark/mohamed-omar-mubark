@@ -1,9 +1,5 @@
 <h4 align="left">
-Front-end engineer with +5 years of hands-on experience developing and implementing
-applications and solutions using a range of technologies, and programming languages.
-Worked on various projects, including ERP, CRM, CMS, multi-tenancy and vendor platforms,
-medical and commercial management systems, etc. Seeking to leverage my extensive
-development experience and technical expertise in a challenging role as a front-end engineer.
+Driven by expertise in front-end development, with over 5 years of experience in the field. Committed to advancing skills and delivering innovative solutions through continuous learning and development.
 
 </h4>
 
