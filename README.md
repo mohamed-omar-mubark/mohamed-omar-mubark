@@ -1,5 +1,5 @@
 <h4 align="left">
-Driven by expertise in front-end development, with over 5 years of experience in the field. Committed to advancing skills and delivering innovative solutions through continuous learning and development.
+Driven by expertise in front-end development, with over 5 years of experience in the field. Committed to advancing skills and delivering innovative solutions through continuous learning and development
 
 </h4>
 
@@ -27,8 +27,6 @@ Driven by expertise in front-end development, with over 5 years of experience in
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" height="48" width="48" alt="reactjs logo" title="React.js" />
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="48" width="48" alt="redux logo" title="Redux" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaurtfsUBstPqREqCa75nT9VCJs9-Sw27YQ&s" height="48" width="48" alt="prime react logo" title="PrimeRact" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="48" width="48" alt="electron logo" title="Electron" />
-  <img src="https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png" height="48" width="48" alt="quasar logo" title="Quasar" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48" alt="bootstrap logo" title="Bootstrap" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" height="48" width="48" alt="tailwind logo" title="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48" alt="git logo" title="Git" />
