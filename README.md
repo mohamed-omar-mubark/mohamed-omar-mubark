@@ -34,7 +34,6 @@ Driven by expertise in front-end development, with over 5 years of experience in
   <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png" height="48" width="48" alt="gitlab logo" title="Gitlab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48" width="48" alt="npm logo" title="Npm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="48" width="48" alt="yarn logo" title="Yarn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="48" alt="photoshop logo" title="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" width="48" alt="illustrator logo" title="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48" alt="figma logo" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="48" width="48" alt="xd logo" title="XD" />
