@@ -3,6 +3,7 @@
 
 ---
 
+- 💼 Building cool things in Marketing Automation with the team at String
 - 🔭 I’m currently working on [JoyUp.io](https://joyup.io)
 - 🌱 I’m currently learning **software architecture, advanced system design**
 - 💬 Ask me about **Vue.js, Nuxt, front-end architecture**
