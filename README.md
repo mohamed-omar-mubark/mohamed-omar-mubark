@@ -3,8 +3,8 @@
 
 ---
 
-- 💼 Building cool things in Marketing Automation with the team at [String](https://thestring.net/)
-- 🔭 I’m currently working on [JoyUp.io](https://joyup.io)
+- 💼 Building cool things in Marketing Automation with the team at [String](https://thestring.net)
+- 🔭 I’m currently working on [JoyUp](https://joyup.io)
 - 🌱 I’m currently learning **software architecture, advanced system design**
 - 💬 Ask me about **Vue.js, Nuxt, front-end architecture**
 - ⚡ Fun fact: I love swimming
